@@ -1,1 +1,1 @@
-# node-express-mongoose-challenge
+# node-express-mongoose-starter
